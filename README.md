@@ -13,12 +13,3 @@
 [R]: https://www.r-project.org/
 [python]: https://www.python.org/
 [markdown]: https://daringfireball.net/projects/markdown/
-
-
-<br />
-<br />
-
----
-
-
-<img align="left" alt="jhgan00's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
