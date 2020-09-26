@@ -7,10 +7,12 @@
 [<img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/rstudio.svg" />][rstudio]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />][R]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />][python]
+[<img align="left" alt="HTML5" width="26px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/19148073" />][tensorflow]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/markdown.svg" />][markdown]
+
 
 [rstudio]: https://rstudio.com/
 [R]: https://www.r-project.org/
 [python]: https://www.python.org/
 [markdown]: https://daringfireball.net/projects/markdown/
-[tensorflow]: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/19148073
+[tensorflow]: https://www.tensorflow.org/
