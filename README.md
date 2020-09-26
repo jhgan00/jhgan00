@@ -13,3 +13,4 @@
 [R]: https://www.r-project.org/
 [python]: https://www.python.org/
 [markdown]: https://daringfireball.net/projects/markdown/
+[tensorflow]: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/19148073
