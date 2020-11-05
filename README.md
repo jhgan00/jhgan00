@@ -17,6 +17,7 @@
 [markdown]: https://daringfireball.net/projects/markdown/
 [tensorflow]: https://www.tensorflow.org/
 
-<br>
+</br>
+</br>
 
 ![jhgan's github stats](https://github-readme-stats.vercel.app/api?username=jhgan00)
