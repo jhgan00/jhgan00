@@ -12,15 +12,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/rstudio.svg" />][rstudio]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />][R]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />][python]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/tensorflow.svg" />][tensorflow]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/markdown.svg" />][markdown]
-
-
-[rstudio]: https://rstudio.com/
-[R]: https://www.r-project.org/
-[python]: https://www.python.org/
-[markdown]: https://daringfireball.net/projects/markdown/
-[tensorflow]: https://www.tensorflow.org/
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-3670A0.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-171515.svg?style=for-the-badge&logo=pandas&logoColor=white).
+![Linux](https://img.shields.io/badge/Linux-3a3535.svg?style=for-the-badge&logo=linux&logoColor=FCC624)   
